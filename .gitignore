@@ -46,6 +46,10 @@ models/*.pth
 models/*.index
 *.pth
 *.index
+models/runtime/hubert_base.pt
+models/voice/*.pth
+models/voice/*.index
+*.pt
 
 # Logs
 *.log
